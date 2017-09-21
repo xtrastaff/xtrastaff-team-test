@@ -7,4 +7,4 @@
   use warnings;
 
   # Print a message.
-  print "Hello, World!\n";
+  print "Hello, World! 123\n";
